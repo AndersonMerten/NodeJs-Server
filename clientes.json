@@ -1,0 +1,20 @@
+[
+    {
+        "nome":"Anderson Merten",
+        "idade":"25 anos",
+        "altura": "1,78",
+        "peso": "72"
+    },
+    {
+        "nome":"William Parlow",
+        "idade":"22 anos",
+        "altura":"1,70",
+        "peso":"65"
+    },
+    {
+        "nome":"jagunço",
+        "idade":"45 anos",
+        "altura": "1,60",
+        "peso":"80"
+    }
+]
