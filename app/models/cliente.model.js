@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+/*const mongoose = require('mongoose');
 
 const ClienteSchema = mongoose.Schema({
     nome: String,   
@@ -7,4 +7,4 @@ const ClienteSchema = mongoose.Schema({
     peso: Number
 });
 
-module.exports = mongoose.model('Cliente', ClienteSchema);
+module.exports = mongoose.model('Cliente', ClienteSchema);*/
