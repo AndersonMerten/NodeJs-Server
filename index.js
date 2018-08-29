@@ -17,7 +17,8 @@ app
   .listen(PORT, () => console.log(`Listening on ${ PORT }`))
 
   require('./app/routes/app.routes.js')(app);
-
+  
+/*
   // Configuring the database
 const dbConfig = require('./config/database.config.js');
 const mongoose = require('mongoose');
@@ -33,3 +34,4 @@ mongoose.connect(dbConfig.url, {
     console.log('Could not connect to the database. Exiting now...');
     process.exit();
 });
+*/
